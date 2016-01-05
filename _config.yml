@@ -1,0 +1,28 @@
+name: Snuggle Party
+favicon: null
+layout_spectrum: 0.7780743637122214
+typography_spectrum: 0.7304579757619649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7935893128160387
+  lightness: 0.27459708834066987
+  saturation: 0.6565010764170438
+  rhythmicContrast: 0.19399415259249508
+purpose: []
