@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Building Community with Nourishing Platonic Touch, Snuggle, & Cuddle Events]]></title>
+        <description><![CDATA[Building Community with Nourishing Platonic Touch, Snuggle, & Cuddle Events]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 04:07:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Your Snuggle On!]]></title>
+            <description><![CDATA[<article><h1>Get Your Snuggle On!</h1><p>Paperback: Amazon (US | UK | France | Germany) | Barnes & Noble</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d95d88d49db499e1312039b69be8f1517249fbc.jpg"></article>]]></description>
+            <link>undefinedget-your-snuggle-on/index.html</link>
+            <guid isPermaLink="false">cfd4239b-3df8-4225-bc04-e4cc9a491c69</guid>
+            <pubDate>Wed, 06 Jan 2016 04:07:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
