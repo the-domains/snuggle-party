@@ -6,40 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Learn how to throw nourishing, connective touch-positive events'
-datePublished: '2016-01-07T21:33:12.468Z'
-dateModified: '2016-01-07T21:20:05.666Z'
+datePublished: '2016-01-07T21:40:00.876Z'
+dateModified: '2016-01-07T21:39:52.261Z'
 title: About The Snuggle Party Guidebook
 author: []
+sourcePath: _posts/2016-01-07-about-the-snuggle-party-guidebook.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-about-the-snuggle-party-guidebook.md
-published: true
 url: about-the-snuggle-party-guidebook/index.html
 _type: Article
 
 ---
 ****
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7c69f11-4cbe-4c4e-a7e4-7430b6ae2dba.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/122aa9c5-4d5b-44f3-8ee5-7b5e28d9d34a.jpg)
 
 Imagine... A life where nourishing, platonic physical affection is readily available beyond romantic relationships. A life where you resonate with friends on a deeper heartfelt level. Hopefully this will one day be available to everyone.
 
