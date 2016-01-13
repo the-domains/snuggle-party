@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Get your copy of The Snuggle Party Guidebook today!'
-datePublished: '2016-01-13T20:30:53.487Z'
-dateModified: '2016-01-13T20:30:40.919Z'
+datePublished: '2016-01-13T20:36:29.093Z'
+dateModified: '2016-01-13T20:36:20.290Z'
 title: Get Your Snuggle On
 author: []
 sourcePath: _posts/2016-01-07-get-your-snuggle-on.md
