@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Get your copy of The Snuggle Party Guidebook today!'
-datePublished: '2016-01-07T21:51:12.742Z'
-dateModified: '2016-01-07T21:50:56.045Z'
+datePublished: '2016-01-13T20:28:30.961Z'
+dateModified: '2016-01-13T20:28:22.047Z'
 title: Get Your Snuggle On
 author: []
 sourcePath: _posts/2016-01-07-get-your-snuggle-on.md
