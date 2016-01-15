@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Get your copy of The Snuggle Party Guidebook today!'
-datePublished: '2016-01-13T20:37:45.825Z'
-dateModified: '2016-01-13T20:37:39.557Z'
+datePublished: '2016-01-15T07:41:36.256Z'
+dateModified: '2016-01-15T07:41:20.327Z'
 title: Get Your Snuggle On
 author: []
 sourcePath: _posts/2016-01-07-get-your-snuggle-on.md
@@ -22,13 +22,12 @@ url: get-your-snuggle-on/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/73af075986111f4abb35cf1254d56e35a84e63b3.jpg)
-
 ****
 
 Paperback: Amazon ([US][0] | [UK][1] | [France][2] | [Germany][3]) | [Barnes & Noble][4]
 
 Ebook (Kindle): [US][5] | [UK][6] | [Australia][7] | [Canada][8] | [France][9] | [Japan][10] | [Germany][11]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c264fc77-1dff-433c-a7d2-c987cbffd29d.jpg)
 
 Ebook (epub & other): [iBooks][12] | [Barnes & Noble][13] | [Kobo][14] |[Inktera][15] | [Scribd][16]
 
