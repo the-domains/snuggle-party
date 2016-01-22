@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Learn how to throw nourishing, connective touch-positive events'
-datePublished: '2016-01-15T21:05:53.213Z'
-dateModified: '2016-01-15T21:05:38.060Z'
+datePublished: '2016-01-22T02:04:33.885Z'
+dateModified: '2016-01-22T02:03:49.076Z'
 title: About The Snuggle Party Guidebook
 author: []
 sourcePath: _posts/2016-01-07-about-the-snuggle-party-guidebook.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: about-the-snuggle-party-guidebook/index.html
-_type: Article
+_type: WebPage
 
 ---
 ****
