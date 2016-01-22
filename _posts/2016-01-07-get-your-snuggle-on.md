@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Get your copy of The Snuggle Party Guidebook today!'
-datePublished: '2016-01-15T07:41:36.256Z'
-dateModified: '2016-01-15T07:41:20.327Z'
+datePublished: '2016-01-22T19:56:02.998Z'
+dateModified: '2016-01-22T19:55:57.681Z'
 title: Get Your Snuggle On
 author: []
 sourcePath: _posts/2016-01-07-get-your-snuggle-on.md
@@ -27,9 +27,9 @@ _type: Article
 Paperback: Amazon ([US][0] | [UK][1] | [France][2] | [Germany][3]) | [Barnes & Noble][4]
 
 Ebook (Kindle): [US][5] | [UK][6] | [Australia][7] | [Canada][8] | [France][9] | [Japan][10] | [Germany][11]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c264fc77-1dff-433c-a7d2-c987cbffd29d.jpg)
 
 Ebook (epub & other): [iBooks][12] | [Barnes & Noble][13] | [Kobo][14] |[Inktera][15] | [Scribd][16]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c264fc77-1dff-433c-a7d2-c987cbffd29d.jpg)
 
 [0]: http://www.amazon.com/gp/product/0981776477/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0981776477&linkCode=as2&tag=waffcomdelive-20&linkId=VTLNRNIDVJPYXNVC
 [1]: http://www.amazon.co.uk/gp/product/0981776477/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0981776477&linkCode=as2&tag=wafflepcom-21&linkId=Q54WWITHC5WY3P5R%22%3EThe%20Snuggle%20Party%20Guidebook:%20Create%20Deeper%20Friendships,%20Decrease%20Loneliness,%20&%20Enjoy%20Nurturing%20Touch%20Community%3C/a%3E%3Cimg%20src=%22http://ir-uk.amazon-adsystem.com/e/ir?t=wafflepcom-21&l=as2&o=2&a=0981776477
