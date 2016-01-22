@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Learn how to throw nourishing, connective touch-positive events'
-datePublished: '2016-01-22T02:12:48.748Z'
-dateModified: '2016-01-22T02:12:44.343Z'
+datePublished: '2016-01-22T02:16:22.782Z'
+dateModified: '2016-01-22T02:16:12.486Z'
 title: About The Snuggle Party Guidebook
 author: []
 sourcePath: _posts/2016-01-07-about-the-snuggle-party-guidebook.md
@@ -41,6 +41,6 @@ pointers on self-care and getting support, such as money and volunteers
 * strategies for managing even some of the less common dynamics 
 * ways platonic snuggling can complement and enhance romantic relationships
 
-[Get your copy today][0]
+[Get your copy today][0].
 
-[0]: http://www.amazon.com/gp/product/0981776477/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0981776477&linkCode=as2&tag=waffcomdelive-20&linkId=VTLNRNIDVJPYXNVC
+[0]: http://amzn.to/1Qi4rzP
