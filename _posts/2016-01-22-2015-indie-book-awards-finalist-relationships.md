@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T20:14:42.122Z'
+datePublished: '2016-01-22T20:14:42.124Z'
 dateModified: '2016-01-22T20:13:05.446Z'
 title: '2015 Indie Book Awards Finalist, Relationships'
 author: []
