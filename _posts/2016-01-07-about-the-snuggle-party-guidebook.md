@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Learn how to throw nourishing, connective touch-positive events'
-datePublished: '2016-01-22T02:10:50.141Z'
+datePublished: '2016-01-22T02:10:50.181Z'
 dateModified: '2016-01-22T02:10:45.821Z'
 title: About The Snuggle Party Guidebook
 author: []
