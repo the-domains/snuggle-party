@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T19:53:54.019Z'
-dateModified: '2016-01-22T19:53:16.669Z'
+datePublished: '2016-01-25T00:11:17.877Z'
+dateModified: '2016-01-25T00:11:13.435Z'
 title: An Uncommon Resource
 author: []
+sourcePath: _posts/2016-01-22-an-uncommon-resource.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-an-uncommon-resource.md
-published: true
 _type: Blurb
 
 ---
