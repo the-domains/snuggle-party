@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T00:11:17.879Z'
-dateModified: '2016-01-25T00:11:13.435Z'
+datePublished: '2016-01-25T00:20:13.755Z'
+dateModified: '2016-01-25T00:20:01.082Z'
 title: An Uncommon Resource
 author: []
 sourcePath: _posts/2016-01-22-an-uncommon-resource.md
