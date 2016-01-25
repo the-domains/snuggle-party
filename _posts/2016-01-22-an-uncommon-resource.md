@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T00:11:17.877Z'
+datePublished: '2016-01-25T00:11:17.879Z'
 dateModified: '2016-01-25T00:11:13.435Z'
 title: An Uncommon Resource
 author: []
